@@ -1,19 +1,22 @@
 
-
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 /* Register Page */
 
 .registerWrapper {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 95vh;
+  height: 100vh;
 
 }
 
 .formBox {
   display: flex;
   justify-content: center;
-  height: ;
 }
 
 .innerForm {
